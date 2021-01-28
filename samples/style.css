@@ -1,0 +1,48 @@
+
+@font-face{ 
+  font-family: 'Epilogue';
+  font-weight: 100 900;
+	src: url('Epilogue[wght].woff2') format('woff2-variations')
+}
+
+@font-face{ 
+  font-family: 'Epilogue';
+  font-weight: 100 900;
+  font-style: italic;
+	src: url('Epilogue-Italic[wght].woff2') format('woff2-variations')
+}
+
+.test-open-sans {
+    font-family: 'Open Sans';
+    font-size: 80px;
+    border: 1px solid red;
+    color: gray
+}
+
+.test-epilogue {
+    font-family: 'Epilogue';
+    font-size: 80px;
+    border: 1px solid red;
+    color: navy
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.tf-text {
+  border: 1px solid green;  
+}
+
+.fal {
+  border: 1px solid blue; 
+}
+
+.line-through {
+  text-decoration: line-through
+}
+
+.italic {
+  font-style: italic;
+}

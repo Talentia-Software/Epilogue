@@ -1110,11 +1110,11 @@ customValue = 1;
 customParameters = (
 {
 name = typoAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = hheaAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = winAscent;
@@ -1176,11 +1176,11 @@ customValue = 1;
 customParameters = (
 {
 name = typoAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = hheaAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = winAscent;
@@ -1244,11 +1244,11 @@ customValue = 1;
 customParameters = (
 {
 name = typoAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = hheaAscender;
-value = 1580;
+value = 1945;
 },
 {
 name = winAscent;
